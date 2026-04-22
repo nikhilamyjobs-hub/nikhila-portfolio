@@ -1,0 +1,33 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.port": 5500,
+    "files.associations": {
+      "*.html": "html"
+    },
+    "emmet.includeLanguages": {
+      "html": "html"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "ritwickdey.LiveServer",
+      "esbenp.prettier-vscode",
+      "formulahendry.auto-rename-tag",
+      "bradlc.vscode-tailwindcss",
+      "github.vscode-pull-request-github",
+      "eamodio.gitlens"
+    ]
+  }
+}
